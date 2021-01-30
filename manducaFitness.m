@@ -1,4 +1,4 @@
-% EN01-04 Computational Modeling and Design
+
 % Department of Computer Science
 % Tufts University
 
